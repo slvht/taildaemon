@@ -1,8 +1,5 @@
 #!/usr/bin/python
-#
-# Author: Silviu Hutanu silviu.hutanu@ro.ibm.com
-# Scope: Multithreaded log checker for HANA replication
-# Version: 0.1
+
 
 import threading
 import subprocess
